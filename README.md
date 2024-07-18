@@ -64,4 +64,4 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/solomspd/contribution-cal-snake/blob/master/animation/snake.gif)
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
