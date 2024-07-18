@@ -1,7 +1,7 @@
-<h2 align="left">
-  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>
+<h1 align="left">
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"><br>
   I'm Hritik, Android Developer
-</h2>
+</h1>
 
 <h2 align="left">👨‍💻 About me:</h2>
 <img align="right" height="300" src="https://github.com/mehritik/mehritik/blob/main/Andorid.gif"/>
