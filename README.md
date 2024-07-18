@@ -52,6 +52,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="36" alt="maven logo"  />
+  <img width="12" />
 </div>
 
 <br>
