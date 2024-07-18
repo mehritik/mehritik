@@ -4,7 +4,7 @@
 </h1>
 
 <h2 align="left">👨‍💻 About me:</h2>
-<img align="right" height="300" src="https://github.com/mehritik/mehritik/blob/main/Andorid.gif" alt="Android"/>
+<img align="right" height="300" src="https://github.com/mehritik/mehritik/blob/main/Andorid.gif" alt="Android" style="pointer-events: none;"/>
 
 <p align="left">🌟 Building innovative solutions since 2021<br>
 📚 Currently learning Jetpack Compose<br>
