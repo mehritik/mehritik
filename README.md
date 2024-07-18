@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="36" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="36" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="36" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="36" alt="sqlite logo"  />
   <img width="12" />
@@ -38,11 +38,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="36" alt="tensorflow logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="36" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=materialui" height="36" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" height="36" alt="jetpackcompose logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="36" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="36" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="36" alt="postman logo"  />
   <img width="12" />
 </div>
 
