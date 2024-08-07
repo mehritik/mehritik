@@ -9,7 +9,7 @@
 <p align="left">🌟 Building innovative solutions since 2021<br>
 📚 Currently learning Jetpack Compose<br>
 🎯 Goal: Build transformative apps that impact lives<br>
-📱 Built 10+ high-quality apps on the Play Store<br>
+📱 Built and published 10+ high-quality apps on the Play Store.<br>
 🚀 Passionate about exploring new technologies<br>
 🎨 Dedicated to UI/UX design<br>
 🔍 Always testing and improving my code<br>
